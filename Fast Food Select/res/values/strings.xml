@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Fast Food Select</string>
+    <string name="title_restaurant_detail">Restaurant Detail</string>
+    <string name="title_restaurant_list">Restaurants</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_food_item">FoodItemActivity</string>
+    <string name="title_activity_food_item_details">FoodItemDetailActivity</string>
+    <string name="share">Share</string>
+    <string name="title_activity_food_graph">FoodGraphActivity</string>
+
+</resources>

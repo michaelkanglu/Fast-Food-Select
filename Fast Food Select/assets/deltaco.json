@@ -1,0 +1,978 @@
+{
+    "Name" : "Del Taco",
+    "Source" : "http://www.deltaco.com/nutrition.html",
+    "Last Updated" : "10/10/10",
+    "Type" : ["Breakfast","Tacos","Burritos","Grilled Quesadillas","Sides and Salads","Beef Burgers","Fries","Nachos","Desserts and Shakes","Drinks"],
+    "Menu" : [{
+        "Food item" : "1/2 lb. Steak & Egg Burrito",
+        "Type" : "Breakfast",
+        "Total Calories" : 520,
+        "Fiber" : 1,
+        "Protein" : 25,
+        "Saturated Fat" : 9,
+        "Sodium" : 1100
+    },
+    {
+        "Food item" : "1/2 lb. Sausage & Egg Burrito",
+        "Type" : "Breakfast",
+        "Total Calories" : 550,
+        "Fiber" : 1,
+        "Protein" : 30,
+        "Saturated Fat" : 22,
+        "Sodium" : 1140
+    },
+    {
+        "Food item" : "1/2 ib. bacon and Egg Burrito",
+        "Type" : "Breakfast",
+        "Total Calories" : 560,
+        "Fiber" : 2,
+        "Protein" : 26,
+        "Saturated Fat" : 12,
+        "Sodium" : 1440
+    },
+    {
+        "Food item" : "Egg and Cheese Burrito",
+        "Type" : "Breakfast",
+        "Total Calories" : 400,
+        "Fiber" : 1,
+        "Protein" : 18,
+        "Saturated Fat" : 6,
+        "Sodium" : 770
+    },
+    {
+        "Food item" : "Bacon Breakfast Burrito",
+        "Type" : "Breakfast",
+        "Total Calories" : 400,
+        "Fiber" : 1,
+        "Protein" : 19,
+        "Saturated Fat" : 9,
+        "Sodium" : 1030
+    },
+    {
+        "Food item" : "Breakfast Burrito",
+        "Type" : "Breakfast",
+        "Total Calories" : 280,
+        "Fiber" : 1,
+        "Protein" : 13,
+        "Saturated Fat" : 6,
+        "Sodium" : 570
+    },
+    {
+        "Food item" : "Bacon, Egg, and Cheese Biscuit Sandwhich",
+        "Type" : "Breakfast",
+        "Total Calories" : 480,
+        "Fiber" : 1,
+        "Protein" : 18,
+        "Saturated Fat" : 15,
+        "Sodium" : 650
+    },
+    {
+        "Food item" : "Sausage, Egg, and Cheese Biscuit Sandwhich",
+        "Type" : "Breakfast",
+        "Total Calories" : 570,
+        "Fiber" : 1,
+        "Protein" : 20,
+        "Saturated Fat" : 19,
+        "Sodium" : 480
+    },
+    {
+        "Food item" : "Bacon, Egg, and Cheese Muffin Sandwhich",
+        "Type" : "Breakfast",
+        "Total Calories" : 480,
+        "Fiber" : 1,
+        "Protein" : 18,
+        "Saturated Fat" : 15,
+        "Sodium" : 650
+    },
+    {
+        "Food item" : "Sausage, Egg, and Cheese Muffin Sandwhich",
+        "Type" : "Breakfast",
+        "Total Calories" : 570,
+        "Fiber" : 1,
+        "Protein" : 20,
+        "Saturated Fat" : 19,
+        "Sodium" : 480
+    },
+    {
+        "Food item" : "Bacon & Egg Quesdilla",
+        "Type" : "Breakfast",
+        "Total Calories" : 430,
+        "Fiber" : 2,
+        "Protein" : 20,
+        "Saturated Fat" : 10,
+        "Sodium" : 850
+    },
+    {
+        "Food item" : "Sausage Biscuit Sandwhich",
+        "Type" : "Breakfast",
+        "Total Calories" : 470,
+        "Fiber" : 1,
+        "Protein" : 17,
+        "Saturated Fat" : 25,
+        "Sodium" : 370
+    },
+    {
+        "Food item" : "5-piece Hash Brown Sticks",
+        "Type" : "Breakfast",
+        "Total Calories" : 215,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 3,
+        "Sodium" : 180
+    },
+    {
+        "Food item" : "8-piece Hash Brown Sticks",
+        "Type" : "Breakfast",
+        "Total Calories" : 340,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 5,
+        "Sodium" : 290
+    },
+    {
+        "Food item" : "Taco",
+        "Type" : "Tacos",
+        "Total Calories" : 130,
+        "Fiber" : 1,
+        "Protein" : 7,
+        "Saturated Fat" : 3,
+        "Sodium" : 180
+    },
+    {
+        "Food item" : "Soft Taco",
+        "Type" : "Tacos",
+        "Total Calories" : 150,
+        "Fiber" : 2,
+        "Protein" : 8,
+        "Saturated Fat" : 3,
+        "Sodium" : 330
+    },
+    {
+        "Food item" : "Deluxe Taco ",
+        "Type" : "Tacos",
+        "Total Calories" : 170,
+        "Fiber" : 1,
+        "Protein" : 8,
+        "Saturated Fat" : 4,
+        "Sodium" : 260
+    },
+    {
+        "Food item" : "Chicken Soft Taco",
+        "Type" : "Tacos",
+        "Total Calories" : 220,
+        "Fiber" : 2,
+        "Protein" : 12,
+        "Saturated Fat" : 3,
+        "Sodium" : 490
+    },
+    {
+        "Food item" : "Classic Taco",
+        "Type" : "Tacos",
+        "Total Calories" : 200,
+        "Fiber" : 1,
+        "Protein" : 13,
+        "Saturated Fat" : 5,
+        "Sodium" : 320
+    },
+    {
+        "Food item" : "Classic Soft Taco",
+        "Type" : "Tacos",
+        "Total Calories" : 220,
+        "Fiber" : 2,
+        "Protein" : 14,
+        "Saturated Fat" : 5,
+        "Sodium" : 470
+    },
+    {
+        "Food item" : "Macho Taco",
+        "Type" : "Tacos",
+        "Total Calories" : 300,
+        "Fiber" : 2,
+        "Protein" : 20,
+        "Saturated Fat" : 7,
+        "Sodium" : 630
+    },
+    {
+        "Food item" : "Taco al Carbon- Chicken",
+        "Type" : "Tacos",
+        "Total Calories" : 150,
+        "Fiber" : 2,
+        "Protein" : 10,
+        "Saturated Fat" : 0,
+        "Sodium" : 300
+    },
+    {
+        "Food item" : "Taco al Carbon - Steak",
+        "Type" : "Tacos",
+        "Total Calories" : 210,
+        "Fiber" : 2,
+        "Protein" : 9,
+        "Saturated Fat" : 2,
+        "Sodium" : 400
+    },
+    {
+        "Food item" : "Asado Taco - Chicken",
+        "Type" : "Tacos",
+        "Total Calories" : 170,
+        "Fiber" : 3,
+        "Protein" : 10,
+        "Saturated Fat" : 0,
+        "Sodium" : 380
+    },
+    {
+        "Food item" : "Asada Taco - Steak",
+        "Type" : "Tacos",
+        "Total Calories" : 230,
+        "Fiber" : 3,
+        "Protein" : 10,
+        "Saturated Fat" : 3,
+        "Sodium" : 480
+    },
+    {
+        "Food item" : "Crispy Fish Taco ",
+        "Type" : "Tacos",
+        "Total Calories" : 300,
+        "Fiber" : 3,
+        "Protein" : 8,
+        "Saturated Fat" : 2,
+        "Sodium" : 320
+    },
+    {
+        "Food item" : "Big Fat Taco - Chicken",
+        "Type" : "Tacos",
+        "Total Calories" : 330,
+        "Fiber" : 1,
+        "Protein" : 16,
+        "Saturated Fat" : 3,
+        "Sodium" : 690
+    },
+    {
+        "Food item" : "Big Fat Taco - Steak",
+        "Type" : "Tacos",
+        "Total Calories" : 390,
+        "Fiber" : 1,
+        "Protein" : 15,
+        "Saturated Fat" : 6,
+        "Sodium" : 790
+    },
+    {
+        "Food item" : "Kid's Bean & Cheese (Red or Green)",
+        "Type" : "Burritos",
+        "Total Calories" : 320,
+        "Fiber" : 7,
+        "Protein" : 14,
+        "Saturated Fat" : 1,
+        "Sodium" : 1320
+    },
+    {
+        "Food item" : "1/2 lb. Bean & Cheese (Red or Green)",
+        "Type" : "Burritos",
+        "Total Calories" : 440,
+        "Fiber" : 12,
+        "Protein" : 18,
+        "Saturated Fat" : 4,
+        "Sodium" : 2080
+    },
+    {
+        "Food item" : "Deluxe 1/2 lb. Bean & Cheese Burrito ",
+        "Type" : "Burritos",
+        "Total Calories" : 490,
+        "Fiber" : 12,
+        "Protein" : 19,
+        "Saturated Fat" : 6,
+        "Sodium" : 2090
+    },
+    {
+        "Food item" : "Del Combo Burrito ",
+        "Type" : "Burritos",
+        "Total Calories" : 475,
+        "Fiber" : 10,
+        "Protein" : 26,
+        "Saturated Fat" : 6,
+        "Sodium" : 1980
+    },
+    {
+        "Food item" : "Deluxe Del Combo Burrito ",
+        "Type" : "Burritos",
+        "Total Calories" : 515,
+        "Fiber" : 11,
+        "Protein" : 28,
+        "Saturated Fat" : 8,
+        "Sodium" : 1990
+    },
+    {
+        "Food item" : "Del Beef Burrito ",
+        "Type" : "Burritos",
+        "Total Calories" : 470,
+        "Fiber" : 2,
+        "Protein" : 29,
+        "Saturated Fat" : 8,
+        "Sodium" : 1060
+    },
+    {
+        "Food item" : "Deluxe Del Beef Burrito ",
+        "Type" : "Burritos",
+        "Total Calories" : 475,
+        "Fiber" : 3,
+        "Protein" : 30,
+        "Saturated Fat" : 10,
+        "Sodium" : 1080
+    },
+    {
+        "Food item" : "Spicy Grilled Chicken Burrito",
+        "Type" : "Burritos",
+        "Total Calories" : 610,
+        "Fiber" : 7,
+        "Protein" : 27,
+        "Saturated Fat" : 4,
+        "Sodium" : 2450
+    },
+    {
+        "Food item" : "Classic Grilled Chicken Burrito ",
+        "Type" : "Burritos",
+        "Total Calories" : 475,
+        "Fiber" : 1,
+        "Protein" : 18,
+        "Saturated Fat" : 7,
+        "Sodium" : 870
+    },
+    {
+        "Food item" : "Ultimate Grilled Chicken Burrito",
+        "Type" : "Burritos",
+        "Total Calories" : 530,
+        "Fiber" : 3,
+        "Protein" : 21,
+        "Saturated Fat" : 9,
+        "Sodium" : 1370
+    },
+    {
+        "Food item" : "Veggie Works Burrito",
+        "Type" : "Burritos",
+        "Total Calories" : 620,
+        "Fiber" : 9,
+        "Protein" : 18,
+        "Saturated Fat" : 6,
+        "Sodium" : 2200
+    },
+    {
+        "Food item" : "Macho Chicken Burrito ",
+        "Type" : "Burritos",
+        "Total Calories" : 920,
+        "Fiber" : 14,
+        "Protein" : 46,
+        "Saturated Fat" : 15,
+        "Sodium" : 3460
+    },
+    {
+        "Food item" : "Macho Beef Burrito",
+        "Type" : "Burritos",
+        "Total Calories" : 1010,
+        "Fiber" : 6,
+        "Protein" : 61,
+        "Saturated Fat" : 19,
+        "Sodium" : 2140
+    },
+    {
+        "Food item" : "Macho Combo Burrito ",
+        "Type" : "Burritos",
+        "Total Calories" : 990,
+        "Fiber" : 15,
+        "Protein" : 50,
+        "Saturated Fat" : 19,
+        "Sodium" : 3460
+    },
+    {
+        "Food item" : "Kid's Quesadilla (2 Pack)",
+        "Type" : "Grilled Quesadillas",
+        "Total Calories" : 280,
+        "Fiber" : 3,
+        "Protein" : 12,
+        "Saturated Fat" : 7,
+        "Sodium" : 540
+    },
+    {
+        "Food item" : "Cheddar Quesadilla",
+        "Type" : "Grilled Quesadillas",
+        "Total Calories" : 480,
+        "Fiber" : 2,
+        "Protein" : 23,
+        "Saturated Fat" : 16,
+        "Sodium" : 840
+    },
+    {
+        "Food item" : "Spicy Jack Quesadilla",
+        "Type" : "Grilled Quesadillas",
+        "Total Calories" : 480,
+        "Fiber" : 2,
+        "Protein" : 23,
+        "Saturated Fat" : 13,
+        "Sodium" : 820
+    },
+    {
+        "Food item" : "Chicken Cheddar Quesadilla",
+        "Type" : "Grilled Quesadillas",
+        "Total Calories" : 570,
+        "Fiber" : 2,
+        "Protein" : 34,
+        "Saturated Fat" : 16,
+        "Sodium" : 1180
+    },
+    {
+        "Food item" : "Spicy Jack Chicken Quesadilla",
+        "Type" : "Grilled Quesadillas",
+        "Total Calories" : 570,
+        "Fiber" : 2,
+        "Protein" : 34,
+        "Saturated Fat" : 13,
+        "Sodium" : 1160
+    },
+    {
+        "Food item" : "Tostada",
+        "Type" : "Sides and Salads",
+        "Total Calories" : 260,
+        "Fiber" : 6,
+        "Protein" : 10,
+        "Saturated Fat" : 4,
+        "Sodium" : 850
+    },
+    {
+        "Food item" : "Bean & Cheese Cup",
+        "Type" : "Sides and Salads",
+        "Total Calories" : 320,
+        "Fiber" : 17,
+        "Protein" : 19,
+        "Saturated Fat" : 2,
+        "Sodium" : 2460
+    },
+    {
+        "Food item" : "Deluxe Taco Salad",
+        "Type" : "Sides and Salads",
+        "Total Calories" : 845,
+        "Fiber" : 14,
+        "Protein" : 34,
+        "Saturated Fat" : 17,
+        "Sodium" : 2470
+    },
+    {
+        "Food item" : "Double Del Cheeseburger",
+        "Type" : "Beef Burgers",
+        "Total Calories" : 720,
+        "Fiber" : 1,
+        "Protein" : 31,
+        "Saturated Fat" : 18,
+        "Sodium" : 1270
+    },
+    {
+        "Food item" : "Bacon Double Del Cheeseburger",
+        "Type" : "Beef Burgers",
+        "Total Calories" : 770,
+        "Fiber" : 1,
+        "Protein" : 34,
+        "Saturated Fat" : 20,
+        "Sodium" : 1440
+    },
+    {
+        "Food item" : "Del Cheeseburger",
+        "Type" : "Beef Burgers",
+        "Total Calories" : 500,
+        "Fiber" : 1,
+        "Protein" : 18,
+        "Saturated Fat" : 10,
+        "Sodium" : 810
+    },
+    {
+        "Food item" : "Cheeseburger",
+        "Type" : "Beef Burgers",
+        "Total Calories" : 430,
+        "Fiber" : 1,
+        "Protein" : 18,
+        "Saturated Fat" : 9,
+        "Sodium" : 990
+    },
+    {
+        "Food item" : "Hamburger",
+        "Type" : "Beef Burgers",
+        "Total Calories" : 360,
+        "Fiber" : 1,
+        "Protein" : 14,
+        "Saturated Fat" : 5,
+        "Sodium" : 560
+    },
+    {
+        "Food item" : "Deluxe Chili Cheese Fries ",
+        "Type" : "Fries",
+        "Total Calories" : 590,
+        "Fiber" : 5,
+        "Protein" : 17,
+        "Saturated Fat" : 12,
+        "Sodium" : 940
+    },
+    {
+        "Food item" : "Chili Cheddar Fries",
+        "Type" : "Fries",
+        "Total Calories" : 550,
+        "Fiber" : 5,
+        "Protein" : 16,
+        "Saturated Fat" : 10,
+        "Sodium" : 930
+    },
+    {
+        "Food item" : "Fries (Macho)",
+        "Type" : "Fries",
+        "Total Calories" : 515,
+        "Fiber" : 6,
+        "Protein" : 6,
+        "Saturated Fat" : 4,
+        "Sodium" : 630
+    },
+    {
+        "Food item" : "Fries (Medium)",
+        "Type" : "Fries",
+        "Total Calories" : 360,
+        "Fiber" : 4,
+        "Protein" : 4,
+        "Saturated Fat" : 3,
+        "Sodium" : 440
+    },
+    {
+        "Food item" : "Fries (Small)",
+        "Type" : "Fries",
+        "Total Calories" : 260,
+        "Fiber" : 3,
+        "Protein" : 3,
+        "Saturated Fat" : 2,
+        "Sodium" : 310
+    },
+    {
+        "Food item" : "Fries (Kid's)",
+        "Type" : "Fries",
+        "Total Calories" : 150,
+        "Fiber" : 2,
+        "Protein" : 2,
+        "Saturated Fat" : 1,
+        "Sodium" : 190
+    },
+    {
+        "Food item" : "Macho Nachos",
+        "Type" : "Nachos",
+        "Total Calories" : 1000,
+        "Fiber" : 14,
+        "Protein" : 33,
+        "Saturated Fat" : 15,
+        "Sodium" : 3050
+    },
+    {
+        "Food item" : "Macho Nachos - Grilled Chicken",
+        "Type" : "Nachos",
+        "Total Calories" : 1085,
+        "Fiber" : 14,
+        "Protein" : 43,
+        "Saturated Fat" : 15,
+        "Sodium" : 3350
+    },
+    {
+        "Food item" : "Macho Nachos - Grilled Steak",
+        "Type" : "Nachos",
+        "Total Calories" : 1160,
+        "Fiber" : 15,
+        "Protein" : 42,
+        "Saturated Fat" : 19,
+        "Sodium" : 3490
+    },
+    {
+        "Food item" : "Nachos",
+        "Type" : "Nachos",
+        "Total Calories" : 370,
+        "Fiber" : 1,
+        "Protein" : 5,
+        "Saturated Fat" : 4,
+        "Sodium" : 530
+    },
+    {
+        "Food item" : "Premium Shake - Vanilla",
+        "Type" : "Desserts and Shakes",
+        "Total Calories" : 520,
+        "Fiber" : 0,
+        "Protein" : 16,
+        "Saturated Fat" : 9,
+        "Sodium" : 320
+    },
+    {
+        "Food item" : "Premium Shake - Chocolate",
+        "Type" : "Desserts and Shakes",
+        "Total Calories" : 560,
+        "Fiber" : 1,
+        "Protein" : 15,
+        "Saturated Fat" : 9,
+        "Sodium" : 350
+    },
+    {
+        "Food item" : "Premium Shake- Strawberry",
+        "Type" : "Desserts and Shakes",
+        "Total Calories" : 520,
+        "Fiber" : 1,
+        "Protein" : 15,
+        "Saturated Fat" : 9,
+        "Sodium" : 300
+    },
+    {
+        "Food item" : "Churro",
+        "Type" : "Desserts and Shakes",
+        "Total Calories" : 180,
+        "Fiber" : 0,
+        "Protein" : 2,
+        "Saturated Fat" : 2,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Cheesecake Bites (2 pc.)",
+        "Type" : "Desserts and Shakes",
+        "Total Calories" : 470,
+        "Fiber" : 0,
+        "Protein" : 6,
+        "Saturated Fat" : 10,
+        "Sodium" : 300
+    },
+    {
+        "Food item" : "Cheesecake Bites (4 pc.)",
+        "Type" : "Desserts and Shakes",
+        "Total Calories" : 940,
+        "Fiber" : 0,
+        "Protein" : 12,
+        "Saturated Fat" : 21,
+        "Sodium" : 600
+    },
+    {
+        "Food item" : "Chocolate Chip Cookies",
+        "Type" : "Desserts and Shakes",
+        "Total Calories" : 200,
+        "Fiber" : 1,
+        "Protein" : 2,
+        "Saturated Fat" : 4,
+        "Sodium" : 85
+    },
+    {
+        "Food item" : "Strawberry Lemonade",
+        "Type" : "Drinks",
+        "Total Calories" : 40,
+        "Fiber" : 1,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 20
+    },
+    {
+        "Food item" : "Macho - Coca Cola",
+        "Type" : "Drinks",
+        "Total Calories" : 540,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 35
+    },
+    {
+        "Food item" : "Macho - Diet Coke",
+        "Type" : "Drinks",
+        "Total Calories" : 5,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 50
+    },
+    {
+        "Food item" : "Macho - Sprite",
+        "Type" : "Drinks",
+        "Total Calories" : 530,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 115
+    },
+    {
+        "Food item" : "Macho - Barq's Root Beer",
+        "Type" : "Drinks",
+        "Total Calories" : 610,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 130
+    },
+    {
+        "Food item" : "Macho - Minute Maid Light Lemonade",
+        "Type" : "Drinks",
+        "Total Calories" : 28,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 28
+    },
+    {
+        "Food item" : "Macho - Pibb Xtra",
+        "Type" : "Drinks",
+        "Total Calories" : 530,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 75
+    },
+    {
+        "Food item" : "Macho - Cherry Coke",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Macho - Iced Tea",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Medium - Coca Cola",
+        "Type" : "Drinks",
+        "Total Calories" : 400,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 25
+    },
+    {
+        "Food item" : "Medium - Diet Coke",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 35
+    },
+    {
+        "Food item" : "Medium - Sprite",
+        "Type" : "Drinks",
+        "Total Calories" : 388,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 88
+    },
+    {
+        "Food item" : "Medium - Barq's Root Beer",
+        "Type" : "Drinks",
+        "Total Calories" : 440,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 95
+    },
+    {
+        "Food item" : "Medium - Pibb Xtra",
+        "Type" : "Drinks",
+        "Total Calories" : 390,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 55
+    },
+    {
+        "Food item" : "Medium - Minute Maid Light Lemonade",
+        "Type" : "Drinks",
+        "Total Calories" : 25,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 25
+    },
+    {
+        "Food item" : "Medium - Cherry Coke",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Medium - Iced Tea",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Small - Coca Cola",
+        "Type" : "Drinks",
+        "Total Calories" : 250,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 15
+    },
+    {
+        "Food item" : "Small - Diet Coke",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 20
+    },
+    {
+        "Food item" : "Small - Sprite",
+        "Type" : "Drinks",
+        "Total Calories" : 240,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 50
+    },
+    {
+        "Food item" : "Small - Barq's Root Beer",
+        "Type" : "Drinks",
+        "Total Calories" : 280,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 60
+    },
+    {
+        "Food item" : "Small - Pibb Xtra",
+        "Type" : "Drinks",
+        "Total Calories" : 240,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 35
+    },
+    {
+        "Food item" : "Small - Minute Maid Light Lemonade",
+        "Type" : "Drinks",
+        "Total Calories" : 10,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 10
+    },
+    {
+        "Food item" : "Small - Cherry Coke",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Small - Iced Tea",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Kids - Coca Cola",
+        "Type" : "Drinks",
+        "Total Calories" : 200,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 10
+    },
+    {
+        "Food item" : "Kids - Diet Coke",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 20
+    },
+    {
+        "Food item" : "Kids - Sprite",
+        "Type" : "Drinks",
+        "Total Calories" : 190,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 40
+    },
+    {
+        "Food item" : "Kids - Barq's Root Beer",
+        "Type" : "Drinks",
+        "Total Calories" : 220,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 50
+    },
+    {
+        "Food item" : "Kids - Pibb Xtra",
+        "Type" : "Drinks",
+        "Total Calories" : 190,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 30
+    },
+    {
+        "Food item" : "Kids - Minute Maid Light Lemonade",
+        "Type" : "Drinks",
+        "Total Calories" : 10,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 10
+    },
+    {
+        "Food item" : "Kids - Cherry Coke",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Kids - Iced Tea",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    },
+    {
+        "Food item" : "Prima Java Coffee",
+        "Type" : "Drinks",
+        "Total Calories" : 0,
+        "Fiber" : 0,
+        "Protein" : 0,
+        "Saturated Fat" : 0,
+        "Sodium" : 15
+    },
+    {
+        "Food item" : "Milk - 2% Low Fat",
+        "Type" : "Drinks",
+        "Total Calories" : 130,
+        "Fiber" : 0,
+        "Protein" : 10,
+        "Saturated Fat" : 3,
+        "Sodium" : 130
+    },
+    {
+        "Food item" : "Orange Juice",
+        "Type" : "Drinks",
+        "Total Calories" : 283,
+        "Fiber" : 0,
+        "Protein" : 1,
+        "Saturated Fat" : 0,
+        "Sodium" : 0
+    }]
+}
